@@ -22,7 +22,7 @@
     		"HskyZhou\\RepositoryHashid\\" : "src"
     	},
         "files" : [
-            "helper/encrypt.php"
+            "src/helper/encrypt.php"
         ]
     }
 }
