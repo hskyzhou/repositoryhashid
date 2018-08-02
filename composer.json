@@ -24,5 +24,12 @@
         "files" : [
             "src/helper/encrypt.php"
         ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HskyZhou\\RepositoryHashid\\ServiceProvider"
+            ]
+        }
     }
 }
